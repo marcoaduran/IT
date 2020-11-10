@@ -28,7 +28,6 @@
     top: 54%;
     left: 74%;
     transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
     width: 630px;
     height: 550px;
     font-size: 16px;
@@ -40,7 +39,7 @@
     text-align: center;
     text-transform: capitalize;
 }.form1-area p{
-    margin: 0px;
+    margin: 20px;
     padding: 0px;
     font-weight: bold;
     color: #ffffff ;
